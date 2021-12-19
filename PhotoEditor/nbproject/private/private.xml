@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/sairam/Documents/NetBeansProjects/PhotoEditor/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/sairam/Documents/NetBeansProjects/PhotoEditor/web/assets/js/indexScript.js</file>
+            <file>file:/C:/Users/sairam/Documents/NetBeansProjects/PhotoEditor/web/assets/CSS/style.css</file>
+            <file>file:/C:/Users/sairam/Documents/NetBeansProjects/PhotoEditor/src/java/MyServletPackage/LoginServlet.java</file>
+            <file>file:/C:/Users/sairam/Documents/NetBeansProjects/PhotoEditor/web/login.jsp</file>
+            <file>file:/C:/Users/sairam/Documents/NetBeansProjects/PhotoEditor/web/assets/CSS/LoginStyleCSS.css</file>
+            <file>file:/C:/Users/sairam/Documents/NetBeansProjects/PhotoEditor/web/Home.html</file>
+            <file>file:/C:/Users/sairam/Documents/NetBeansProjects/PhotoEditor/web/index.jsp</file>
+            <file>file:/C:/Users/sairam/Documents/NetBeansProjects/PhotoEditor/web/register.jsp</file>
+            <file>file:/C:/Users/sairam/Documents/NetBeansProjects/PhotoEditor/src/java/MyEntities/User.java</file>
+            <file>file:/C:/Users/sairam/Documents/NetBeansProjects/PhotoEditor/src/java/MyServletPackage/RegisterServlet.java</file>
+            <file>file:/C:/Users/sairam/Documents/NetBeansProjects/PhotoEditor/src/java/Mydao/UserDao.java</file>
+        </group>
+    </open-files>
+</project-private>

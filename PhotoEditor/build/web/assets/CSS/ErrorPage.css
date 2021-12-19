@@ -1,0 +1,38 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    
+}
+.container{
+    margin-top: 20px;
+    width: 700px;
+    height: 500px;
+ 
+    
+    border-radius: 8px;
+}
+.imagepng {
+    display: flex;
+    justify-content: center;
+    height:400px;
+
+    
+}
+.errortext {
+    text-align: center;
+    height: 130px;
+  
+    font-family: monospace;
+    
+}
+#homebtn{
+    font-family: monospace;
+    text-decoration: none;
+    font-size: 25px;
+    background: #009688;
+    padding:5px 10px;
+    border-radius: 6px;
+}
+

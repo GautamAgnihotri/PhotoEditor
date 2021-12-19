@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://github.com/MitaliDubey/PhotoEditor/blob/main/login_page_img.jpg?raw=true);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+.signup {
+    width: 320;
+    height: 500;
+    background: rgba(255, 255, 255,0.2);
+    color: #fff;     
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 50px 30px;
+    
+}
+
+
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: bold;
+}
+
+
+.signup p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+
+}
+
+.signup input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.signup input[type="text"], input[type="password"], input[type="email"], input[type="tel"]
+{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+
+.signup button[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #fb2525;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+    margin-left: 37%;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+
+}
+
+.signup input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+
